@@ -17,7 +17,7 @@ python-dotenv = "*"
 passlib = {extras = ["bcrypt"], version = "*"}
 python-jose = "*"
 pinecone-client = "*"
-openai = "*"
+openai = "==0.28.0"
 
 [dev-packages]
 
